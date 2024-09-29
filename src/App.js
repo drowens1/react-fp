@@ -12,16 +12,15 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />}>
-          <Route index element={<h1>Welcome</h1>} />
-          <Route path="about" element={<About />} />
-          <Route path="products" element={<ProductList />} />
-          <Route path="products/new" element={<ProductForm />} />
-          <Route path="products/:productId/edit" element={<ProductForm />} />
-          <Route path="products/:productId" element={<Product />} />
-          <Route path="*" element={<h1>Product Not Found</h1>} />
-        </Route>
+        <Route path="/" element={<Home />} >
+        <Route path="about" element={<About />} />
+        <Route path="products" element={<ProductList />} />
+        <Route path="products/new" element={<ProductForm />} />
+        <Route path="products/:productId/edit" element={<ProductForm />} />
+        <Route path="products/:productId" element={<Product />} />
+        <Route path="*" element={<h1>Product Not Found</h1>} />
         <Route path="*" element={<h1>Page Not Found</h1>} />
+      </Route>
       </Routes>
     </BrowserRouter>
   )

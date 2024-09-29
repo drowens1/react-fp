@@ -4,7 +4,7 @@ import Spinner from "react-bootstrap/Spinner"
 import { useParams, useNavigate, Link } from "react-router-dom";
 import { ProductContext } from './ProductContext'
 import { useContext, useState, useEffect } from 'react'
-import { Alert, imageUrl, image } from "react-bootstrap";
+import { Alert } from "react-bootstrap";
 
 function Product(props) {
     let params = useParams() // extracts route parameters for individual products /URLs
@@ -37,7 +37,7 @@ function Product(props) {
     }
 
     function productCard() { // function to render product details
-        let { id, productName, description, price, condition, location } = product // extracts details from product state
+        let { id, productName, description, price } = product // extracts details from product state
         return (
             <Card className="align-self-start w-25">
                 <Card.Body>

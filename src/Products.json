@@ -1,95 +1,103 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "productName": "Vintage Arcade Machine",
-        "description": "Restored 1980s arcade machine, fully functional with classic games.",
-        "price": 1200,
-        "imageURL": "https://images.proxibid.com/AuctionImages/4223/142859/5-1.jpg",
-        "condition": "used",
-        "location": "Dallas, TX"
-      },
-      {
-        "id": 2,
-        "productName": "Hand-Carved Wooden Viking Ship",
-        "description": "A 4-foot replica of a Viking ship made from reclaimed oak.",
-        "price": 750,
-        "imageURL": "https://www.viking-store.com/cdn/shop/products/Se30d800f46e841b384ba37605e4b053ao_800x.jpg",
-        "condition": "new",
-        "location": "Fort Worth, TX"
-      },
-      {
-        "id": 3,
-        "productName": "Giant Bean Bag Sofa",
-        "description": "Massive 7-foot bean bag filled with memory foam, perfect for lounging.",
-        "price": 200,
-        "imageURL": "https://www.jaxxbeanbags.com/media/catalog/product/cache/cc4433ca25d3bb4c8c90dcb328d2d345/l/o/lounger-7ft-oversized-bean-bag-lifestyle-5.jpg",
-        "condition": "used",
-        "location": "Plano, TX"
-      },
-      {
-        "id": 4,
-        "productName": "Taxidermy Squirrel with Guitar",
-        "description": "A quirky taxidermy squirrel holding a miniature guitar.",
-        "price": 75,
-        "imageURL": "https://images.fineartamerica.com/images-medium-large-5/red-squirrel-playing-guitar-geert-weggen.jpg",
-        "condition": "new",
-        "location": "Arlington, TX"
-      },
-      {
-        "id": 5,
-        "productName": "Handmade Leather Journal",
-        "description": "A beautifully crafted leather journal with handmade paper.",
-        "price": 60,
-        "imageURL": "https://i.ebayimg.com/images/g/SpAAAOSwddpmCcoa/s-l1200.jpg",
-        "condition": "new",
-        "location": "Irving, TX"
-      },
-      {
-        "id": 6,
-        "productName": "Replica Medieval Armor",
-        "description": "A full suit of medieval knight armor, made from steel and leather.",
-        "price": 850,
-        "imageURL": "https://i.ebayimg.com/images/g/XpcAAOSwQhNlbMIv/s-l1200.jpg",
-        "condition": "used",
-        "location": "Frisco, TX"
-      },
-      {
-        "id": 7,
-        "productName": "Lego Bonsai Tree",
-        "description": "A buildable bonsai tree made entirely from Lego bricks.",
-        "price": 45,
-        "imageURL": "https://m.media-amazon.com/images/I/71gpJcbeU3L._AC_UF894,1000_QL80_.jpg",
-        "condition": "new",
-        "location": "Grapevine, TX"
-      },
-      {
-        "id": 8,
-        "productName": "Custom Painted Roller Skates",
-        "description": "A pair of vintage roller skates with custom painted designs.",
-        "price": 120,
-        "imageURL": "https://live.staticflickr.com/1109/1466492256_15ee53818e_b.jpg",
-        "condition": "used",
-        "location": "Denton, TX"
-      },
-      {
-        "id": 9,
-        "productName": "Steampunk Coffee Maker",
-        "description": "Handmade coffee maker with a steampunk aesthetic, using copper and glass.",
-        "price": 425,
-        "imageURL": "https://i.ytimg.com/vi/7OBRyVjW06w/maxresdefault.jpg",
-        "condition": "new",
-        "location": "Lewisville, TX"
-      },
-      {
-        "id": 10,
-        "productName": "Inflatable Outdoor Movie Screen",
-        "description": "Giant inflatable screen for outdoor movie nights, includes an electric pump.",
-        "price": 150,
-        "imageURL": "https://ae01.alicdn.com/kf/Sd6e9a5efd7564dd6b7535e5b6783709c7/14FT-16FT-20FT-Inflatable-Outdoor-Projector-Movies-Screen-with-Carrying-Bag-for-Home-Theater-Camping-Events.jpg",
-        "condition": "new",
-        "location": "McKinney, TX"
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "productName": "Vintage Arcade Machine",
+      "description": "Restored 1980s arcade machine, fully functional with classic games.",
+      "price": 1200,
+      "imageURL": "https://images.proxibid.com/AuctionImages/4223/142859/5-1.jpg",
+      "condition": "used",
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 2,
+      "productName": "Hand-Carved Wooden Viking Ship",
+      "description": "A 4-foot replica of a Viking ship made from reclaimed oak.",
+      "price": 750,
+      "imageURL": "https://www.viking-store.com/cdn/shop/products/Se30d800f46e841b384ba37605e4b053ao_800x.jpg",
+      "condition": "new",
+      "location": "Fort Worth, TX"
+    },
+    {
+      "id": 3,
+      "productName": "Giant Bean Bag Sofa",
+      "description": "Massive 7-foot bean bag filled with memory foam, perfect for lounging.",
+      "price": 200,
+      "imageURL": "https://www.jaxxbeanbags.com/media/catalog/product/cache/cc4433ca25d3bb4c8c90dcb328d2d345/l/o/lounger-7ft-oversized-bean-bag-lifestyle-5.jpg",
+      "condition": "used",
+      "location": "Plano, TX"
+    },
+    {
+      "id": 4,
+      "productName": "Taxidermy Squirrel with Guitar",
+      "description": "A quirky taxidermy squirrel holding a miniature guitar.",
+      "price": 75,
+      "imageURL": "https://images.fineartamerica.com/images-medium-large-5/red-squirrel-playing-guitar-geert-weggen.jpg",
+      "condition": "new",
+      "location": "Arlington, TX"
+    },
+    {
+      "id": 5,
+      "productName": "Handmade Leather Journal",
+      "description": "A beautifully crafted leather journal with handmade paper.",
+      "price": 60,
+      "imageURL": "https://i.ebayimg.com/images/g/SpAAAOSwddpmCcoa/s-l1200.jpg",
+      "condition": "new",
+      "location": "Irving, TX"
+    },
+    {
+      "id": 6,
+      "productName": "Replica Medieval Armor",
+      "description": "A full suit of medieval knight armor, made from steel and leather.",
+      "price": 850,
+      "imageURL": "https://i.ebayimg.com/images/g/XpcAAOSwQhNlbMIv/s-l1200.jpg",
+      "condition": "used",
+      "location": "Frisco, TX"
+    },
+    {
+      "id": 7,
+      "productName": "Lego Bonsai Tree",
+      "description": "A buildable bonsai tree made entirely from Lego bricks.",
+      "price": 45,
+      "imageURL": "https://m.media-amazon.com/images/I/71gpJcbeU3L._AC_UF894,1000_QL80_.jpg",
+      "condition": "new",
+      "location": "Grapevine, TX"
+    },
+    {
+      "id": 8,
+      "productName": "Custom Painted Roller Skates",
+      "description": "A pair of vintage roller skates with custom painted designs.",
+      "price": 120,
+      "imageURL": "https://live.staticflickr.com/1109/1466492256_15ee53818e_b.jpg",
+      "condition": "used",
+      "location": "Denton, TX"
+    },
+    {
+      "id": 9,
+      "productName": "Steampunk Coffee Maker",
+      "description": "Handmade coffee maker with a steampunk aesthetic, using copper and glass.",
+      "price": 425,
+      "imageURL": "https://i.ytimg.com/vi/7OBRyVjW06w/maxresdefault.jpg",
+      "condition": "new",
+      "location": "Lewisville, TX"
+    },
+    {
+      "id": 10,
+      "productName": "Inflatable Outdoor Movie Screen",
+      "description": "Giant inflatable screen for outdoor movie nights, includes an electric pump.",
+      "price": 150,
+      "imageURL": "https://ae01.alicdn.com/kf/Sd6e9a5efd7564dd6b7535e5b6783709c7/14FT-16FT-20FT-Inflatable-Outdoor-Projector-Movies-Screen-with-Carrying-Bag-for-Home-Theater-Camping-Events.jpg",
+      "condition": "new",
+      "location": "McKinney, TX"
+    },
+    {
+      "productName": "Fancy Typewriter",
+      "description": "Really fancy vintage typewriter",
+      "price": "500",
+      "imageURL": "https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg",
+      "condition": "used",
+      "location": "Dallas, TX",
+      "id": 11
+    }
+  ]
+}

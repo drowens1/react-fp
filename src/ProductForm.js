@@ -54,7 +54,7 @@ function ProductForm() {
       </Form.Group>
       <Form.Group className="mb-3">
         <Form.Label>Image URL</Form.Label>
-        <Form.Control type="text" name="location" value={product.imageURL} onChange={handleChange} placeholder='https://www.example.com/example.jpg' />
+        <Form.Control type="text" name="imageURL" value={product.imageURL} onChange={handleChange} placeholder='https://www.example.com/example.jpg' />
       </Form.Group>
       <Form.Group className="mb-3">
         <Form.Label>Condition</Form.Label>
